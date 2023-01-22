@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\Decagon\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgEasyEncryption Condition=" '$(PkgEasyEncryption)' == '' ">C:\Users\Decagon\.nuget\packages\easyencryption\1.0.2</PkgEasyEncryption>
+  </PropertyGroup>
 </Project>

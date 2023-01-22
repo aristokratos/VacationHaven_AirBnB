@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "mE6tqWLJTiuVM0oD+b3cPHc5w56C+mSdmVPAiLAv79DCnOpZINX32lJYQa5bIv+XK9evLdvnn6/t74CDlASk3Q==",
+  "dgSpecHash": "H4kFjXXUtDUEJFY5SmGbu70VY+kTI7Y4CHcbJzyxnzAaFNL4q95Axs+EB7V7lFn9LFk/n6cXJN5ISd46m2EMdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\VacationHaven\\VacationHaven\\VacationHavenHotel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Decagon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
